@@ -31,7 +31,7 @@ jobs:
           git init
           # type configurations: your user.email and user.name followed lines 
           git config --global user.email crosscode.co.ltd@gmail.com
-          git config --global user.name crosscode.co.ltd
+          git config --global crosscode-software
           
           git status
           # change this remote url for examle your remote url is https://github.com/crosscode-software/flutter_web.git then the following:
